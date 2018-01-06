@@ -2,5 +2,10 @@
 
 System.out.println("hello");
 
+<<<<<<< HEAD
 
 // hi i made another change
+=======
+//print name
+System.out.println("Sivaguru");
+>>>>>>> 3d8e7134277d17876194b74dc6e63b082235af83
